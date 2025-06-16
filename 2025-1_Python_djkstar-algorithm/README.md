@@ -11,8 +11,9 @@ This Python script implements **Dijkstra’s** algorithm to find the shortest ro
 ## How to Run
 1. Make sure this dependency is installed:
 
-```pip install pandas
-   ```
+```
+pip install pandas
+```
 
 2. **Optional** Place `distances.xlsx` in the same directory to use custom data.
 
