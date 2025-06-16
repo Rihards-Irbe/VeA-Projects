@@ -9,5 +9,5 @@ This project introduces basic Python operations involving strings and mathematic
 
 ## How to Run via VisualStudio
 1. Make sure *Python* and *Jupyter* is installed.
-2. Open the .ipynb file in Visual Studio.
+2. Open the `.ipynb` file in Visual Studio.
 1. Run the desired section of the file by clicking the **Run** (play) button.
