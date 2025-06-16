@@ -8,5 +8,5 @@ This project introduces the concept of functions in Python. It covers how to def
 
 ## How to Run via VisualStudio
 1. Make sure *Python* and *Jupyter* is installed.
-2. Open the .ipynb file in Visual Studio.
+2. Open the `.ipynb` file in Visual Studio.
 1. Run the desired section of the file by clicking the **Run** (play) button.
