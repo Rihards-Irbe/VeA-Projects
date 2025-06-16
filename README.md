@@ -11,8 +11,8 @@ Each project includes its own `README.md` with a full explanation, features, and
 
 Here are some highlights from the repository:
 
-- **2024-10_Python-Comparing_Sorting_Algorithms** – A Python terminal based tool for measuring and comparing sorting algorithms performance. Includes configurable settings, execution time graphs, and more.
-- **2025-1_Python_djkstar-algorithm** - A Python program that calculates the shortest path between Latvian cities using **Dijkstr's algorithm**. Supports custom distance data via Excel.
+- [**2024-10_Python-Comparing_Sorting_Algorithms**](https://github.com/Rihards-Irbe/VeA-Projects/tree/master/2024-10_Python_comparing-sorting-algorithms) – A Python terminal based tool for measuring and comparing sorting algorithms performance. Includes configurable settings, execution time graphs, and more.
+- [**2025-1_Python_djkstar-algorithm**](https://github.com/Rihards-Irbe/VeA-Projects/tree/master/2025-1_Python_djkstar-algorithm) - A Python program that calculates the shortest path between Latvian cities using **Dijkstr's algorithm**. Supports custom distance data via Excel.
 
 ## 📌 Note
 
