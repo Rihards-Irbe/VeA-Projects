@@ -10,6 +10,7 @@ Although it was a team effort, I contributed the majority of the coding work, du
 - Table, that contains all data
 - Graph, that visually displays gathered data
 - Memory overload protection that stops the sorting process and outputs the data collected so far
+- The algorithm tracks only 2 measuring results, if it takes longer than two minutes, and stops further measuring
 
 ## How to Run
 1. Make sure these dependencies are installed:#
