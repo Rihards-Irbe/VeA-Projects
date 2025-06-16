@@ -22,8 +22,8 @@ Although it was a team effort, I contributed the majority of the coding work, du
 2. Run the file using any Python compatible compiler or interpreter.
 
 ## Additional Materials
-- [Project Presentation (PDF)](presentation/project_presentation.pdf)
-- [Algorithm complexity (XLSX)](presentation/project_presentation.pdf)
+- [Project Presentation (PDF)](additional_materials/project_presentation.pdf)
+- [Algorithm complexity (XLSX)](additional_materials/algorithm_complexity.xlsx)
 
 ---
 ## Pictures related to this project
