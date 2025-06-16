@@ -1,0 +1,6 @@
+# ninja log v6
+386	460	7654108589084692	08_uzdevums.exe	fbb897bfc6134e9f
+1	450	7654110858702265	build.ninja	5e84cf44514fc830
+13	386	7654108585349024	CMakeFiles/08_uzdevums.dir/R_Irbe_MD_08_08.cpp.obj	c2d5837fbb0fb666
+22	552	7654110887896377	CMakeFiles/08_uzdevums.dir/R_Irbe_MD_08_08.cpp.obj	57261cae5b3dc32e
+552	625	7654110893192684	08_uzdevums.exe	fbb897bfc6134e9f
